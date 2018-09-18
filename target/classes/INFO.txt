@@ -1,0 +1,18 @@
+
+  CONSOLA WEB: (admin/admin)
+  -----------
+  http://localhost:8093
+ 
+ 
+  [SPRING-BOOT-ACTUATOR]:  
+  ----------------------
+  Herramientas que permiten obtener la siguiente INFORMACIÓN (RESPETAR EL PUERTO). 
+  
+  http://localhost:8093/metrics
+  http://localhost:8093/health
+  http://localhost:8093/trace
+  http://localhost:8093/env
+  http://localhost:8093/loggers
+  
+    
+  
